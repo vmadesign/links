@@ -20,7 +20,7 @@ body {
 }
 
 main {
-  background: url(../images/background-vma.jpeg) no-repeat center/cover;
+  background: url(images/background-vma.jpeg) no-repeat center/cover;
   width: 100vw;
   min-height: 600px;
   height: 100vh;
